@@ -766,7 +766,7 @@ footer .container {
 .user-name:hover .label-descr,
 .user-name:focus .label-descr,
 .user-name > .user-data:not(:placeholder-shown) + .label-descr {
-  transform: translate(-90%, -270%);
+  transform: translate(-90%, -250%);
 
   color: var(--accent-color);
 
@@ -776,7 +776,7 @@ footer .container {
 .user-tel:hover .label-descr,
 .user-tel:focus .label-descr,
 .user-tel > .user-data:not(:placeholder-shown) + .label-descr {
-  transform: translate(-50%, -270%);
+  transform: translate(-50%, -250%);
 
   color: var(--accent-color);
 
@@ -785,7 +785,7 @@ footer .container {
 .user-email:hover .label-descr,
 .user-email:focus .label-descr,
 .user-email > .user-data:not(:placeholder-shown) + .label-descr {
-  transform: translate(-60%, -270%);
+  transform: translate(-60%, -250%);
 
   color: var(--accent-color);
 
